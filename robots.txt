@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /contact.php
+Disallow: /about.html
+Disallow: /contact.html
+
+Sitemap: https://monkeycarat.com/sitemap.xml
