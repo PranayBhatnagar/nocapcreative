@@ -38,6 +38,15 @@
     margin: 0;
   }
   
+  #mainlogoimg{
+    margin-left: 30%;
+    margin-top: 10%;
+  }
+  
+  #bgvideo{
+    margin-left: 30px;
+  }
+
   /* Grouping content
        ========================================================================== */
   /**
